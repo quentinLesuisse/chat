@@ -3,7 +3,7 @@
     --navbar-item-hovered-color: white;
     --navbar-separator-color: #d3d3d3;
     --navbar-icon-color: #646c79;
-    --navbar-text-color: black;
+    --navbar-text-color: rgb(10, 10, 10);
     --navbar-transition-speed: .2s;
     --primary-color: rgb(125, 0, 0);
     --navbar-logo-background-color: white;
